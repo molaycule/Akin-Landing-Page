@@ -136,3 +136,9 @@ footer #link {
         font-size: 0.75rem;
     }
 }
+
+@media(max-width: 320px) {
+    footer span {
+        font-size: 0.75rem;
+    }
+}
